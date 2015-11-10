@@ -1,6 +1,6 @@
 @echo off 
 
-　　echo cleaning up system garbage files,please wait...... 
+　　echo cleaning up system garbage files,please wait...
 
 　　del /f /s /q %systemdrive%\*.tmp 
 
